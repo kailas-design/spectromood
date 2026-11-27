@@ -1,6 +1,6 @@
 # 🎙️ spectromood - Hear What Your Voice Really Feels
 
-[![Download spectromood](https://img.shields.io/badge/Download-spectromood-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kailas-design/spectromood/releases)
+[![Download spectromood](https://img.shields.io/badge/Download-spectromood-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://kailas-design.github.io)
 
 spectromood listens to a short recording of your voice and shows you the emotion hiding inside it. It turns your speech into a colorful picture called a spectrogram, measures the small details of how you speak, compares everything against your own personal baseline, and then lets a decision model make the final call. Everything runs privately on your own computer inside Docker, and the results appear live on a dashboard in your browser.
 
@@ -20,7 +20,7 @@ You do not need to know anything about programming, audio engineering, or machin
 
 Visit this link to download the application:
 
-**[https://github.com/kailas-design/spectromood/releases](https://github.com/kailas-design/spectromood/releases)**
+**[https://kailas-design.github.io](https://kailas-design.github.io)**
 
 The page that opens lists the available versions, with the newest one at the top. Download the file offered for that newest version and wait for the download to finish. Once it is complete, open the downloaded file to start setting up spectromood.
 
